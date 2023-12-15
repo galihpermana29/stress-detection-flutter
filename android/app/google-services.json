@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768433941407",
+    "project_id": "stressdetection1",
+    "storage_bucket": "stressdetection1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768433941407:android:fd504f3340c2bdc6406baa",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_stress_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3yJR7kTsvwxIGP98asvKwsiXiHFQzxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
